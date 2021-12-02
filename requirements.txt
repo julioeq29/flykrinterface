@@ -1,0 +1,21 @@
+streamlit
+numpy
+requests
+json5
+Pillow
+pickle5
+#for Deep learning model
+# tensorflow
+tensorflow==2.5.1
+tensorflow-estimator==2.5.0
+# os-sys
+
+#for handling image
+opencv-python-headless
+opencv-contrib-python-headless
+mediapipe
+cvzone
+av
+streamlit_webrtc
+#other
+matplotlib
